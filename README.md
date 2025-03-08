@@ -30,3 +30,5 @@ Currently this option is not implemented yet.
 
 Fro option [6], the programm is terminated.
 
+The nemu is in greek
+

@@ -28,7 +28,4 @@ waiting for user input to continue printing the data and so on.
 For option [5], the programm asks the user for a filepath where the clientele will be saved. If no name is given, its saved automatically at *"business.csv"*.
 Currently this option is not implemented yet.
 
-Fro option [6], the programm is terminated.
-
-The nemu is in greek
-
+For option [6], the programm is terminated.
